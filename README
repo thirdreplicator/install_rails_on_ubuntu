@@ -1,0 +1,1 @@
+The purpose of this script is to prepare a dedicated server running Ubuntu to serve a Ruby on Rails application using Ruby 1.9.1 and Phusion Passenger.
